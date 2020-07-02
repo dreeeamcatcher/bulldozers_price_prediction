@@ -1,4 +1,4 @@
-# Bulldozers price prediction project 
+# Bulldozers Sale Price Prediction: Project Overview
 
 Data Science project using supervised learning for prediction bulldozers prices (regression problem)
 
